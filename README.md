@@ -20,7 +20,7 @@ A lightweight, production-ready HAL-based driver for the **Winbond W25Q64FV**
 
 ---
 
-> **Note:** Do **not** assign any pin as `SPI2_NSS` in CubeMX.
+> **Note:** Do **not** assign any pin as `SPI_NSS` in CubeMX.
 > Configure it as a plain `GPIO_Output` with the user label `FLASH_CS`.
 
 ---
