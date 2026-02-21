@@ -216,7 +216,7 @@ JEDEC Response (command 0x9F):
 | Component | Details |
 |-----------|---------|
 | MCU | STM32F407VGT6 |
-| Flash | Winbond W25Q64FVSSIG (IQ variant, QE=1) |
+| Flash | Winbond W25Q64FVSSIG  |
 | HAL Version | STM32F4 HAL v1.8.x |
 | IDE | STM32CubeIDE |
 | SPI Clock | 21 MHz (APB1 84 MHz / 4) |
